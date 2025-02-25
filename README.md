@@ -1,7 +1,7 @@
 # SmartToll: AI-Powered Digital Tolling for Seamless Transactions - NPCI Hackathon (Mumbai Tech Week)
 
 ![NPCI Logo](images/NPCI-Logo.png)
-![Mumbai Tech Week Logo](images/mtw.png)
+![Mumbai Tech Week Logo](images/mtw.jpg)
 
 ## Overview
 This repository contains the source code and documentation for our project submitted to the **NPCI Hackathon** as part of **Mumbai Tech Week**. The project aims to leverage cutting-edge technology to enhance digital toll payment solutions and financial inclusion, specifically focusing on seamless integration with existing NPCI infrastructure paradigms.
