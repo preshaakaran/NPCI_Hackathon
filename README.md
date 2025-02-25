@@ -134,6 +134,6 @@ The **NPCI Hackathon** conducted during **Mumbai Tech Week** challenges develope
 ## Team Members
 
 * Aarav Mody
-* Aditya Deshpande - [Role]
-* Luvv Swami - [Role]
-* Presha Karan - [Role]
+* Aditya Deshpande
+* Luvv Swami
+* Presha Karan 
